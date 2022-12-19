@@ -10,9 +10,10 @@
 int main(void)
 {
 	char dennis, e, q;
+
 	e = 'e';
 	q = 'q';
-	
+
 	for (dennis = 'a'; dennis <= 'z'; dennis++)
 	{
 		if (dennis != e && dennis != q)
