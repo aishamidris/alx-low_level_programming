@@ -17,4 +17,4 @@ int main(void)
 	 * only one statement
 	 * you are not allowed to code anything else than this line of code
 	 */
-	p[5]
+	p[5];
